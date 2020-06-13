@@ -17,7 +17,7 @@ public class App {
 //        plant2.shedLeaves();
 
 
-//        tree.shedLeaves();
+      tree.shedLeaves();
 
         /* Important:Whereever the the parent class is expected (plant)
         its child class can be used (tree) */
