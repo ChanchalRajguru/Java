@@ -7,7 +7,6 @@ class Machine{
     public void stop(){
         System.out.println("Machine stopped.");
     }
-
 }
 
 class Camera extends Machine{
